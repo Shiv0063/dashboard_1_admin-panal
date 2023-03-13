@@ -1,0 +1,428 @@
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://netdna.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://netdna.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://netdna.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://netdna.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://netdna.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://netdna.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://ui8-core.herokuapp.com/
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\index.htm
+Content Type: text/html
+
+Uri: https://ui8-core.herokuapp.com/affiliate-center.html
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\affiliate-center.html
+Content Type: text/html
+
+Uri: https://ui8-core.herokuapp.com/css/app.min.css
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\css\app.min.css
+Content Type: text/css
+
+Uri: https://ui8-core.herokuapp.com/customer-list.html
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\customer-list.html
+Content Type: text/html
+
+Uri: https://ui8-core.herokuapp.com/customers-overview.html
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\customers-overview.html
+Content Type: text/html
+
+Uri: https://ui8-core.herokuapp.com/explore-creators.html
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\explore-creators.html
+Content Type: text/html
+
+Uri: https://ui8-core.herokuapp.com/img/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://ui8-core.herokuapp.com/img/content/apple-dark.svg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\apple-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://ui8-core.herokuapp.com/img/content/apple-light.svg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\apple-light.svg
+Content Type: image/svg+xml
+
+Uri: https://ui8-core.herokuapp.com/img/content/avatar-1.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\avatar-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/avatar-2.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\avatar-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/avatar-3.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\avatar-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/avatar-4.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\avatar-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/avatar-5.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\avatar-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/avatar.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\avatar.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/bg-shop.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\bg-shop.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/bg-video.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\bg-video.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/figma.png
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\figma.png
+Content Type: image/png
+
+Uri: https://ui8-core.herokuapp.com/img/content/google.svg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\google.svg
+Content Type: image/svg+xml
+
+Uri: https://ui8-core.herokuapp.com/img/content/heart.svg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\heart.svg
+Content Type: image/svg+xml
+
+Uri: https://ui8-core.herokuapp.com/img/content/login-pic.png
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\login-pic.png
+Content Type: image/png
+
+Uri: https://ui8-core.herokuapp.com/img/content/message.svg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\message.svg
+Content Type: image/svg+xml
+
+Uri: https://ui8-core.herokuapp.com/img/content/photo-1.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\photo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/photo-2.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\photo-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/post-pic-1.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\post-pic-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/post-pic-1@2x.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\post-pic-1@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/post-pic-2.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\post-pic-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/post-pic-2@2x.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\post-pic-2@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/post-pic-3.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\post-pic-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/post-pic-3@2x.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\post-pic-3@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/post-pic-4.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\post-pic-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/post-pic-4@2x.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\post-pic-4@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/post-pic-5.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\post-pic-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/post-pic-5@2x.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\post-pic-5@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/product-pic-1.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\product-pic-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/product-pic-1@2x.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\product-pic-1@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/product-pic-2.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\product-pic-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/product-pic-2@2x.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\product-pic-2@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/product-pic-3.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\product-pic-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/product-pic-3@2x.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\product-pic-3@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/product-pic-4.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\product-pic-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/product-pic-4@2x.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\product-pic-4@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/product-pic-5.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\product-pic-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/product-pic-5@2x.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\product-pic-5@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/product-pic-6.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\product-pic-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/product-pic-6@2x.jpg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\product-pic-6@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-core.herokuapp.com/img/content/rating-star.svg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\rating-star.svg
+Content Type: image/svg+xml
+
+Uri: https://ui8-core.herokuapp.com/img/content/shopping-bag.svg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\shopping-bag.svg
+Content Type: image/svg+xml
+
+Uri: https://ui8-core.herokuapp.com/img/content/star.svg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\content\star.svg
+Content Type: image/svg+xml
+
+Uri: https://ui8-core.herokuapp.com/img/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://ui8-core.herokuapp.com/img/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://ui8-core.herokuapp.com/img/logo-dark.png
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\logo-dark.png
+Content Type: image/png
+
+Uri: https://ui8-core.herokuapp.com/img/logo-light.png
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\logo-light.png
+Content Type: image/png
+
+Uri: https://ui8-core.herokuapp.com/img/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://ui8-core.herokuapp.com/img/site.webmanifest
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\site.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://ui8-core.herokuapp.com/img/smileys/blush.png
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\smileys\blush.png
+Content Type: image/png
+
+Uri: https://ui8-core.herokuapp.com/img/smileys/cool.png
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\smileys\cool.png
+Content Type: image/png
+
+Uri: https://ui8-core.herokuapp.com/img/smileys/crying-with-laughter.png
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\smileys\crying-with-laughter.png
+Content Type: image/png
+
+Uri: https://ui8-core.herokuapp.com/img/smileys/heart-eyes.png
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\smileys\heart-eyes.png
+Content Type: image/png
+
+Uri: https://ui8-core.herokuapp.com/img/smileys/sleepy.png
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\smileys\sleepy.png
+Content Type: image/png
+
+Uri: https://ui8-core.herokuapp.com/img/smileys/surprised.png
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\smileys\surprised.png
+Content Type: image/png
+
+Uri: https://ui8-core.herokuapp.com/img/smileys/sweat-grinning.png
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\img\smileys\sweat-grinning.png
+Content Type: image/png
+
+Uri: https://ui8-core.herokuapp.com/income-earning.html
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\income-earning.html
+Content Type: text/html
+
+Uri: https://ui8-core.herokuapp.com/income-payouts.html
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\income-payouts.html
+Content Type: text/html
+
+Uri: https://ui8-core.herokuapp.com/income-refunds.html
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\income-refunds.html
+Content Type: text/html
+
+Uri: https://ui8-core.herokuapp.com/income-statements.html
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\income-statements.html
+Content Type: text/html
+
+Uri: https://ui8-core.herokuapp.com/index.html
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\index.html
+Content Type: text/html
+
+Uri: https://ui8-core.herokuapp.com/js/app.js
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\js\app.js
+Content Type: application/x-javascript
+
+Uri: https://ui8-core.herokuapp.com/js/charts.js
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\js\charts.js
+Content Type: application/x-javascript
+
+Uri: https://ui8-core.herokuapp.com/js/demo.js
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\js\demo.js
+Content Type: application/x-javascript
+
+Uri: https://ui8-core.herokuapp.com/js/lib/apexcharts.min.js
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\js\lib\apexcharts.min.js
+Content Type: application/x-javascript
+
+Uri: https://ui8-core.herokuapp.com/js/lib/jquery.daterangepicker.min.js
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\js\lib\jquery.daterangepicker.min.js
+Content Type: application/x-javascript
+
+Uri: https://ui8-core.herokuapp.com/js/lib/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\js\lib\jquery.fancybox.min.js
+Content Type: application/x-javascript
+
+Uri: https://ui8-core.herokuapp.com/js/lib/jquery.min.js
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\js\lib\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://ui8-core.herokuapp.com/js/lib/jquery.nice-select.min.js
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\js\lib\jquery.nice-select.min.js
+Content Type: application/x-javascript
+
+Uri: https://ui8-core.herokuapp.com/js/lib/jquery.richtext.min.js
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\js\lib\jquery.richtext.min.js
+Content Type: application/x-javascript
+
+Uri: https://ui8-core.herokuapp.com/js/lib/jQuery.tagify.min.js
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\js\lib\jQuery.tagify.min.js
+Content Type: application/x-javascript
+
+Uri: https://ui8-core.herokuapp.com/js/lib/moment.min.js
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\js\lib\moment.min.js
+Content Type: application/x-javascript
+
+Uri: https://ui8-core.herokuapp.com/js/lib/nouislider.min.js
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\js\lib\nouislider.min.js
+Content Type: application/x-javascript
+
+Uri: https://ui8-core.herokuapp.com/js/lib/slick.min.js
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\js\lib\slick.min.js
+Content Type: application/x-javascript
+
+Uri: https://ui8-core.herokuapp.com/js/lib/tooltipster.bundle.min.js
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\js\lib\tooltipster.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://ui8-core.herokuapp.com/js/lib/wNumb.js
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\js\lib\wNumb.js
+Content Type: application/x-javascript
+
+Uri: https://ui8-core.herokuapp.com/message-center.html
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\message-center.html
+Content Type: text/html
+
+Uri: https://ui8-core.herokuapp.com/notification.html
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\notification.html
+Content Type: text/html
+
+Uri: https://ui8-core.herokuapp.com/products-add.html
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\products-add.html
+Content Type: text/html
+
+Uri: https://ui8-core.herokuapp.com/products-comments.html
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\products-comments.html
+Content Type: text/html
+
+Uri: https://ui8-core.herokuapp.com/products-dashboard.html
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\products-dashboard.html
+Content Type: text/html
+
+Uri: https://ui8-core.herokuapp.com/products-drafts.html
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\products-drafts.html
+Content Type: text/html
+
+Uri: https://ui8-core.herokuapp.com/products-released.html
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\products-released.html
+Content Type: text/html
+
+Uri: https://ui8-core.herokuapp.com/products-scheduled.html
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\products-scheduled.html
+Content Type: text/html
+
+Uri: https://ui8-core.herokuapp.com/promote.html
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\promote.html
+Content Type: text/html
+
+Uri: https://ui8-core.herokuapp.com/settings.html
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\settings.html
+Content Type: text/html
+
+Uri: https://ui8-core.herokuapp.com/shop.html
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\shop.html
+Content Type: text/html
+
+Uri: https://ui8-core.herokuapp.com/sign-in.html
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\sign-in.html
+Content Type: text/html
+
+Uri: https://ui8-core.herokuapp.com/sign-up.html
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\sign-up.html
+Content Type: text/html
+
+Uri: https://ui8-core.herokuapp.com/upgrade-to-pro.html
+File Name: C:\Downloaded Web Sites\ui8-core.herokuapp.com\upgrade-to-pro.html
+Content Type: text/html
+
